@@ -1,4 +1,4 @@
-# max0004 ZSH prompt theme
+# max0003 ZSH prompt theme
 
 Custom oh-my-zsh prompt [theme](https://github.com/max-devjs/max0003) based on:
 
